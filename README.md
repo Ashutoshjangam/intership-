@@ -45,6 +45,9 @@ No Lines Detected: Adjust the HSV range, Canny thresholds, or Hough Line Transfo
 Video Path Issues: Ensure the video path is correct and the video file exists at the specified location.
 Contributing
 Feel free to open issues or submit pull requests if you have improvements or bug fixes.
+![Screenshot 2024-11-21 235027](https://github.com/user-attachments/assets/76344873-2cb3-43e9-93a9-226d34cf96de)
+![Screenshot 2024-11-21 235011](https://github.com/user-attachments/assets/9738ec02-a543-463c-ba9c-c2ff7fc58b8f)
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
